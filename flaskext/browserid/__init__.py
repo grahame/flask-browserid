@@ -1,4 +1,4 @@
-from flask.ext.login import login_user, logout_user
+from flask_login import login_user, logout_user
 import requests
 import flask
 import json

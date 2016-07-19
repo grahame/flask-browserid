@@ -1,5 +1,5 @@
 import flask
-from flask.ext.login import LoginManager, UserMixin
+from flask_login import LoginManager, UserMixin
 from flaskext.browserid import BrowserID
 import sys
 import unittest
